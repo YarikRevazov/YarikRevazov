@@ -25,6 +25,6 @@
 - C#  
 
 ## Как со мной связаться  
-📧 Email: ваш_email@example.com  
-📱 Telegram: @ваш_ник  
+📧 Email: iaroslavrevazov@gmail.com
+📱 Telegram: @Admirals5
 🔗 [Мой GitHub](https://github.com/YarikRevazov)
